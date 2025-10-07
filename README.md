@@ -1,4 +1,4 @@
-# AmiGo Social App developed specially for international students and recident of Barcelona 
+# AmiGo Social App developed specifically for international students and recidents of Barcelona 
 
 AmiGo can be defined as a new digital platform dedicated to enhancing social connections through
 shared interests and location-based experiences. AmiGo aims to transform the way individuals
