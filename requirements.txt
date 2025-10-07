@@ -1,0 +1,6 @@
+delta_spark==3.1.0
+numpy==1.26.4
+pandas==2.2.2
+pyspark==3.5.1
+scikit_surprise==1.1.3
+scipy==1.13.0
