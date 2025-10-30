@@ -9,7 +9,7 @@ Our idea is to create a platform that not only facilitates the meeting of like-m
 also promotes meaningful, lasting connections between people, and have new friends.
 Then, AmiGo belongs to the technology sector, specifically within the internet and social media
 sub-sectors. The startup, that we are presenting in this report, will be the owner of this platform,
-and the one that will set the technical and financial resources so as to keep the platform running.
+and the one that will set the technical and financial resources so as to keep the platform running. 
 
 
 # joint_bdm
